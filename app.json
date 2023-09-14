@@ -39,7 +39,7 @@
         "PYRO_STR_SESSION": {
             "description": "Pyrogram String Session",
             "required": true
-       }
+        }
     },
     "addons": [],
     "buildpacks": [
@@ -53,4 +53,4 @@
             "size": "eco"
         }
     }
-    }
+}
